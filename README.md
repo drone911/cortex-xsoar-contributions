@@ -1,4 +1,4 @@
-# Palo Alto Network's Cortex XSOAR Public Contributions
+# Cortex XSOAR (formerly Demisto) Public Contributions
 -> I had major involvement in the development of these market-leading security product integrations within XSOAR. I have linked code samples (at specific commits) for which I had majority contribution.
 | Name                                      | Links                                                                                                                                                                                                                             |
 |-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -9,4 +9,4 @@
 | **Cofense Vision Phishing Protection**    | [Python](https://github.com/demisto/content/blob/9213d8a70c0b0aad89058d78b3127fac8ca2feb9/Packs/CofenseVision/Integrations/CofenseVision/CofenseVision.py) \| [Python Tests](https://github.com/demisto/content/blob/9213d8a70c0b0aad89058d78b3127fac8ca2feb9/Packs/CofenseVision/Integrations/CofenseVision/CofenseVision_test.py)                               |
 | **Solarwinds Orion**                       | [Python](https://github.com/demisto/content/blob/3ebbead31d86f3859c4ee9281152403e8c242bd5/Packs/SolarWinds/Integrations/SolarWinds/SolarWinds.py) \| [Python Tests](https://github.com/demisto/content/blob/3ebbead31d86f3859c4ee9281152403e8c242bd5/Packs/SolarWinds/Integrations/SolarWinds/SolarWinds_test.py)                          |
 
--> Also contributed in upgrading **Rubrik's Python SDK** to support more GraphQL queries and more comprehensive tests. [Link](https://github.com/rubrikinc/rubrik-polaris-sdk-for-python/commit/60842de0ddb3f1339ff1020b3f9d44f520808dab#diff-808a36ba70d3017e103226bc7bc90da25cf7b14494d241859d71520a3394dde7)
+-> Also contributed in upgrading **Rubrik's Python SDK** to support more GraphQL queries and tests. [Link](https://github.com/rubrikinc/rubrik-polaris-sdk-for-python/commit/60842de0ddb3f1339ff1020b3f9d44f520808dab#diff-808a36ba70d3017e103226bc7bc90da25cf7b14494d241859d71520a3394dde7)
